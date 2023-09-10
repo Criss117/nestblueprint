@@ -1,0 +1,4 @@
+export enum MYSQL_ERRORS {
+  DUPLICATE_KEY = 1062,
+  NOT_NULL = 1364,
+}
